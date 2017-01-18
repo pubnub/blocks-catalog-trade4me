@@ -1,0 +1,7 @@
+{
+    "name": "trade4me",
+    "description": "perform actions on the trade4me api",
+    "license": "ISC",
+    "version": 1,
+    "dependencies": {}
+}
